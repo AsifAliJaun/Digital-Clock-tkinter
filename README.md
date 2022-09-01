@@ -9,5 +9,5 @@ time
 Run pip install tkinter
 # How to run the script
 Execute python3 digital_clock.py
-Screenshot/GIF showing the sample use of the script 
+
 
