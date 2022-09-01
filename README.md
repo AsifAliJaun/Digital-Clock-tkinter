@@ -3,7 +3,7 @@ Digital Clock using Python and Tkinter
 This script create a digital clock as per the system's current time.
 
 # Library Used
-tkinter
+tkinter </br>
 time
 # To install required external modules
 Run pip install tkinter
